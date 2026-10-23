@@ -29,6 +29,9 @@ Software Engineer building meaningful products and learning every day.
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F14E32?style=for-the-badge&logo=git&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33B?style=for-the-badge&logo=spring&logoColor=white)
+![Springboot](https://img.shields.io/badge/Springboot-6DB33B?style=for-the-badge&logo=springboot&logoColor=white)
 
 ## What I Enjoy
 - Building clean, practical, and scalable products
